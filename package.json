@@ -1,6 +1,6 @@
 {
-  "name": "NAMI-osi",
-  "version": "2.0.0",
+  "name": "NAMI-osi-cv",
+  "version": "1.0.0",
   "description": "a react chatroom",
   "main": "index.jsx",
   "dependencies": {
