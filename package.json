@@ -1,5 +1,5 @@
 {
-  "name": "NAMI-osi-cv",
+  "name": "namiosi",
   "version": "1.0.0",
   "description": "a react chatroom",
   "main": "index.jsx",
