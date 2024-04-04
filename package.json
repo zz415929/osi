@@ -1,8 +1,12 @@
 {
   "name": "namiosi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a react chatroom",
   "main": "index.jsx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zz415929/osi"
+  },
   "dependencies": {
     "cvapp": "^1.0.0",
     "assert": "^1.4.1",
